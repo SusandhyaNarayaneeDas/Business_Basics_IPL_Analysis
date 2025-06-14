@@ -20,7 +20,6 @@ To provide data-driven insights to **Business Basics**, a business magazine, hig
 - `fact_revenue_demography`
 - `fact_summary_demography`
 - `fact_ipl_central_contracts`
-- Metadata and pointers from Codebasics challenge documents
 
 ---
 
