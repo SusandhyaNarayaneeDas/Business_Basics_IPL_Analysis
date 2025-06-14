@@ -2,7 +2,7 @@
 
 # 🏏 IPL 2025: Economic & Social Impact Analysis
 
-This project was created as part of the **Codebasics Resume Project Challenge #15**, which required participants to analyze the **economic and social impact of IPL 2025 advertisements**.
+This project is created as part of the **Codebasics Resume Project Challenge #15**, which required participants to analyze the **economic and social impact of IPL 2025 advertisements**.
 
 ## 📌 Objective
 
@@ -82,6 +82,6 @@ This project demonstrates the dual-sided nature of IPL advertising:
 
 **Susandhya Narayanee Das**  
 MCA | Data Analyst (Fresher)  
-LinkedIn: [linkedin.com/in/susandhya](#)
+LinkedIn: linkedin.com/in/susandhya-narayanee-das-047a9a231
 
 ---
