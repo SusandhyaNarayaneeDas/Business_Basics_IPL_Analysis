@@ -69,7 +69,7 @@ To provide data-driven insights to **Business Basics**, a business magazine, hig
 
 ---
 
-ppt link - https://shorturl.at/WsrHX
+ppt link - https://shorturl.at/WYJbl
 
 ## 🎯 Outcome
 
