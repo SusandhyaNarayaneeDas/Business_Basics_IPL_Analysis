@@ -69,6 +69,8 @@ To provide data-driven insights to **Business Basics**, a business magazine, hig
 
 ---
 
+ppt link - https://shorturl.at/WsrHX
+
 ## 🎯 Outcome
 
 This project demonstrates the dual-sided nature of IPL advertising:
