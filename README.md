@@ -84,6 +84,6 @@ This project demonstrates the dual-sided nature of IPL advertising:
 
 **Susandhya Narayanee Das**  
 MCA | Data Analyst (Fresher)  
-LinkedIn: linkedin.com/in/susandhya-narayanee-das-047a9a231
+LinkedIn: [linkedin.com/in/susandhya-narayanee-das-047a9a231](https://www.linkedin.com/in/susandhya-narayanee-das-047a9a231)
 
 ---
